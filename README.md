@@ -22,10 +22,10 @@ This repository contains:
 ```
 📦 SQL-Problem-Solving-Repository/
 │── 📄 README.md  # This file (documentation)
-│── queries/
+│📂─ queries/
 │   ├── employee_queries.sql
 │   ├── sales_analysis.sql
-│── datasets/
+│📂─ datasets/
 │   ├── employees.csv
 │   ├── sales_data.csv
 ```
