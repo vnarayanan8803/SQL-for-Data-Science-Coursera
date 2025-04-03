@@ -28,7 +28,6 @@ This repository contains:
 │── datasets/
 │   ├── employees.csv
 │   ├── sales_data.csv
-│── README.md
 ```
 
 ## 🚀 How to Use
