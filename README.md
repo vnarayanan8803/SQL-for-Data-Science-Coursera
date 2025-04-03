@@ -2,19 +2,20 @@
 
 Welcome to my SQL Portfolio, where I solve real-world SQL problems using datasets from Mode Analytics.
 
-**This file has been created with the help of ChatGPT, but after understanding the purpose of everything that's written here**
+**This file has been created with the help of ChatGPT, but with proper understanding of what's written**
 
 📚 About This Repository
 
 This repository contains:
 
-📌 SQL queries solving Mode Analytics challenges
-
+📌 SQL queries solving various SQL challenges
+## 📂 Structure
+    - `Queries/` → Contains SQL queries solving different problems.
+    - `Datasets/` → Sample datasets used for testing queries.
+  
 📂 Well-structured code with explanations
 
 📝 Table structures & assumptions (since databases can't be exported)
-
-🚀 SQL optimization tips & best practices
 
 📂 Folder Structure
 
@@ -28,9 +29,16 @@ This repository contains:
 │   │── SQL_Optimization_Tips.md
 │   │── Window_Functions_Examples.md
 
-🛠 How to Use
+## 🚀 How to Use
+  1. Clone the repository:
+  2. Run the queries in your SQL environment (MySQL, PostgreSQL, etc.).
+  3. Modify and experiment with different datasets.
 
-Since Mode Analytics provides databases in their SQL environment, you can copy these queries and run them directly on Mode Analytics.
+  ## 📌 Example Query
+  ```sql
+  SELECT department, COUNT(*) AS total_employees 
+  FROM employees 
+  GROUP BY department;
 
 🚀 Topics Covered
 
