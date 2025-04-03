@@ -19,15 +19,17 @@ This repository contains:
 
 📂 Folder Structure
 
-📦 Mode-Analytics-SQL
+```
+📦 SQL-Problem-Solving-Repository/
 │── 📄 README.md  # This file (documentation)
-│── 📚 Queries    # Contains all SQL queries
-│   │── Q1_Find_Highest_Sales.sql
-│   │── Q2_User_Engagement.sql
-│   │── Q3_Refinance_vs_InSchool.sql
-│── 📚 Notes      # Contains SQL learning notes
-│   │── SQL_Optimization_Tips.md
-│   │── Window_Functions_Examples.md
+│── queries/
+│   ├── employee_queries.sql
+│   ├── sales_analysis.sql
+│── datasets/
+│   ├── employees.csv
+│   ├── sales_data.csv
+│── README.md
+```
 
 ## 🚀 How to Use
   1. Clone the repository:
