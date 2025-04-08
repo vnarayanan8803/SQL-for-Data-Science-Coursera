@@ -21,13 +21,13 @@ This repository contains:
 📦 SQL-Problem-Solving-Repository/
 │── 📄 README.md  # This file (documentation)
 │📂─ Queries/
-│   ├── Chinook-Database-Question-Set-1.sql
-│   ├── Chinook-Database-Question-Set-2.sql
-│   ├── Chinook-Database-Question-Set-3.sql
-│   ├── Chinook-Database-Question-Set-4.sql
+│   ├── Module-1-Coding-Questions.txt
+│   ├── Module-2-Coding-Questions.sql
+│   ├── Module-3-Coding-Questions.sql
+│   ├── Module-4-Coding-Questions.sql
 │📂─ Dataset Schema/
 │   ├── ChinookDatabaseSchema.png
-│   ├── sales_data.csv
+│   ├── sqlite-sample-database.jpg
 ```
 
 ## 🚀 How to Use
