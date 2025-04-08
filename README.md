@@ -1,8 +1,6 @@
-📊 SQL Portfolio – Mode Analytics Challenges
+📊 Challenges from UC Davis SQL for Data Science Course on Coursera - 
 
-Welcome to my SQL Portfolio, where I solve real-world SQL problems using datasets from Mode Analytics.
-
-**This file has been created with the help of ChatGPT, but with proper understanding of what's written**
+**Welcome to my Portfolio, where I solve SQL problems from courses on Coursera.**
 
 📚 About This Repository
 
@@ -10,23 +8,25 @@ This repository contains:
 
 📌 SQL queries solving various SQL challenges
 ## 📂 Structure
-    - `Queries/` → Contains SQL queries solving different problems.
-    - `Datasets/` → Sample datasets used for testing queries.
+    - `Queries/` → Contains SQL queries solving different sets of problems.
+    - `Dataset Schema/` → Schematic structure of datasets upon which queries are done.
   
 📂 Well-structured code with explanations
 
-📝 Table structures & assumptions (since databases can't be exported)
+📝 Table structures 
 
 📂 Folder Structure
 
 ```
 📦 SQL-Problem-Solving-Repository/
 │── 📄 README.md  # This file (documentation)
-│📂─ queries/
-│   ├── employee_queries.sql
-│   ├── sales_analysis.sql
-│📂─ datasets/
-│   ├── employees.csv
+│📂─ Queries/
+│   ├── Chinook-Database-Question-Set-1.sql
+│   ├── Chinook-Database-Question-Set-2.sql
+│   ├── Chinook-Database-Question-Set-3.sql
+│   ├── Chinook-Database-Question-Set-4.sql
+│📂─ Dataset Schema/
+│   ├── ChinookDatabaseSchema.png
 │   ├── sales_data.csv
 ```
 
@@ -49,6 +49,6 @@ This repository contains:
 
 📧 Email: vnarayanan2803@gmail.com
 
-🔗 LinkedIn: Your LinkedIn Profile
+🔗 LinkedIn: **----------**
 
 🌍 GitHub: https://github.com/vnarayanan8803
