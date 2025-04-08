@@ -1,4 +1,4 @@
-📊 Challenges from UC Davis SQL for Data Science Course on Coursera - 
+📊 Module Challenges from UC Davis SQL for Data Science Course on Coursera - 
 
 **Welcome to my Portfolio, where I solve SQL problems from courses on Coursera.**
 
